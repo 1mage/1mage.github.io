@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://1mage.github.io/"/>
-  <updated>2019-05-29T06:45:19.464Z</updated>
+  <updated>2019-05-29T08:00:11.069Z</updated>
   <id>https://1mage.github.io/</id>
   
   <author>
@@ -17,25 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>github_config</title>
-    <link href="https://1mage.github.io/2019/05/29/github-config/"/>
-    <id>https://1mage.github.io/2019/05/29/github-config/</id>
-    <published>2019-05-29T06:34:13.000Z</published>
-    <updated>2019-05-29T06:45:19.464Z</updated>
+    <title>PHP反序列化漏洞</title>
+    <link href="https://1mage.github.io/2019/05/29/PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/"/>
+    <id>https://1mage.github.io/2019/05/29/PHP反序列化漏洞/</id>
+    <published>2019-05-29T07:51:47.000Z</published>
+    <updated>2019-05-29T08:00:11.069Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><h3 id="1-配置用户名和邮箱"><a href="#1-配置用户名和邮箱" class="headerlink" title="1.配置用户名和邮箱"></a>1.配置用户名和邮箱</h3><p>git config —global user.name ‘1mage’</p><p>git config — global user.name <a href="mailto:&#39;951866262@qq.com" target="_blank" rel="noopener">&#39;951866262@qq.com</a>‘</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h3><p>​    最近再次遇见了反序列化漏洞，感觉很有意思，就再次学习了一下。</p><h3 id="0x01-PHP序列化"><a href="#0x01-PHP序列化" class="headerlink" title="0x01 PHP序列化"></a>0x01 PHP序列化</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;0x00&quot;&gt;&lt;a href=&quot;#0x00&quot; class=&quot;headerlink&quot; title=&quot;0x00&quot;&gt;&lt;/a&gt;0x00&lt;/h2&gt;&lt;h3 id=&quot;1-配置用户名和邮箱&quot;&gt;&lt;a href=&quot;#1-配置用户名和邮箱&quot; class=&quot;headerlink&quot; titl
+        &lt;h3 id=&quot;0x00&quot;&gt;&lt;a href=&quot;#0x00&quot; class=&quot;headerlink&quot; title=&quot;0x00&quot;&gt;&lt;/a&gt;0x00&lt;/h3&gt;&lt;p&gt;​    最近再次遇见了反序列化漏洞，感觉很有意思，就再次学习了一下。&lt;/p&gt;
+&lt;h3 id=&quot;0x01-PHP序列化&quot;&gt;&lt;
       
     
     </summary>
     
     
-      <category term="GitHub" scheme="https://1mage.github.io/tags/GitHub/"/>
+      <category term="PHP" scheme="https://1mage.github.io/tags/PHP/"/>
+    
+      <category term="web安全" scheme="https://1mage.github.io/tags/web%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sql注入--堆叠注入</title>
+    <link href="https://1mage.github.io/2019/05/29/Sql%E6%B3%A8%E5%85%A5-%E5%A0%86%E5%8F%A0%E6%B3%A8%E5%85%A5/"/>
+    <id>https://1mage.github.io/2019/05/29/Sql注入-堆叠注入/</id>
+    <published>2019-05-29T07:51:18.000Z</published>
+    <updated>2019-05-29T07:51:18.946Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
     
   </entry>
   
